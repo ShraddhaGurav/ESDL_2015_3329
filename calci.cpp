@@ -3,12 +3,13 @@
 usng namespace std;
 int main()
 {
-int a,b,res;
-res=a+b;
-cout<<"Enter a:";
-cin>>a;
-cout<<"Enter b:";
-cin>>b;
+int n1,n2,sum
+sum=n1+n2;
+cout<<"Enter n1:";
+cin>>n1;
+cout<<"Enter n2:";
+cin>>n2;
 cout<<"Result is:";
-cin>>res;
+cin>>sum;
+cout<<"Addition completed";
 }
